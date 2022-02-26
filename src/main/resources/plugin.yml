@@ -1,0 +1,8 @@
+name: eloolib
+version: '${project.version}'
+main: dev.eloo.lib.ElooLibrary
+api-version: 1.18
+load: STARTUP
+authors: [ eloo95 ]
+description: Das ist meine Library die wichtige resourcen zu verfügung stellt, die ich für die entwicklung von meinen Plugins brauche!
+website: www.eloo.dev
